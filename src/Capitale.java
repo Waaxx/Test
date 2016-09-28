@@ -1,6 +1,6 @@
 
 public class Capitale extends Pays {
-	
+	//WALLAHWAKBAR apoijfdolakf
 	//ATTRIBUTS
 	private String nom;
 	private int nbHabitants;
