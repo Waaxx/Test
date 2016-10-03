@@ -3,6 +3,7 @@ public class Capitale extends Pays {
 	//WALLAHWAKBAR apoijfdolakfpo*gksmlm
 	//ONTEST
 	//COUCOUBENJAMIN
+	//B3
 	//ATTRIBUTS
 	private String nom;
 	private int nbHabitants;
